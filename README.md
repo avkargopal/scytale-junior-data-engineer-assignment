@@ -56,11 +56,6 @@ python -m venv .venv
 ```
 pip install -r requirements.txt
 ```
-
-### 4️⃣ Set your GitHub Personal Access Token
-Create a token with `repo` and `read:org` scopes:
-- Go to https://github.com/settings/tokens → "Generate new token (classic)"
-
 Then set it (PowerShell command):
 ```
 setx GITHUB_TOKEN "your_token_here"
