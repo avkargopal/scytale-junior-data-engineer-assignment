@@ -103,5 +103,13 @@ Outputs: `data/output/report.csv`
 
 ---
 
+## 🚀 Future Improvements
+Given more time, I would extend this project with:
+- Additional visualisations (e.g., PR trends, reviewer activity, and merge frequency) using **Matplotlib** or **Plotly**.
+- Integration with a lightweight database (like **SQLite** or **PostgreSQL**) to persist historical PR data.
+- A simple dashboard or API endpoint to serve aggregated metrics in real time.
+
+---
+
 ## 👨‍💻 Author
 Built by Avkar Gopal for Scytale’s Junior Data Engineer assignment.
