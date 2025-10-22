@@ -42,7 +42,7 @@ scytale-data-exercise/
 
 ### 1️⃣ Clone or open this folder in VS Code
 ```
-git clone https://github.com/<your-username>/scytale-junior-data-engineer-assignment.git
+git clone https://github.com/<avkargopal>/scytale-junior-data-engineer-assignment.git
 cd scytale-junior-data-engineer-assignment
 ```
 
