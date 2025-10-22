@@ -56,14 +56,9 @@ python -m venv .venv
 ```
 pip install -r requirements.txt
 ```
-Then set it (PowerShell command):
-```
-setx GITHUB_TOKEN "your_token_here"
-```
-
-Reopen VS Code after setting it.
-
----
+### 4️⃣ Authentication
+The script uses a GitHub Personal Access Token (PAT) stored in an environment variable named `GITHUB_TOKEN`.  
+This ensures secure access to the GitHub API without exposing credentials in the code.
 
 ## 🧩 Run the Pipeline
 
